@@ -59,7 +59,6 @@ Then open:
 
 - AI API integration
 - deterministic rule logic implementation
-- 30-case troubleshooting dataset
 - human review persistence workflow
 - verification persistence workflow
 - dashboard analytics implementation
